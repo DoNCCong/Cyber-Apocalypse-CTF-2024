@@ -1,4 +1,4 @@
 # Cyber Apocalypse CTF 2024 -  Writeup
  
-![MyTeam](https://ctf.hackthebox.com/team/overview/163443)
+(Learning Hacking Team)[https://ctf.hackthebox.com/team/overview/163443]
 
