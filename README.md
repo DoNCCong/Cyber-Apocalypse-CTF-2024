@@ -7,3 +7,9 @@
 ## My Team Score:
 
 ![](./Source/Image/Result.PNG)
+
+## 1. Misc
+
+![](./Source/Image/1_Misc_.PNG)
+
+
