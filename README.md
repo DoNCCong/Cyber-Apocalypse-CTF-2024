@@ -30,7 +30,7 @@
 
 ## 6. pwn
 
-![](./Source/Image/6_Pwn.PNG)
+![](./Source/Image/6_pwn.PNG)
 
 ## 7. Hardware
 
