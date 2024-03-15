@@ -2,21 +2,21 @@
 
 ## Decription
 
-![](./Image/1.png)
+![](./Image/1.PNG)
 
 ## Solve Problem
 
 ### 1. Extracting the file:
 
-![](./Image/2.png)
+![](./Image/2.PNG)
 
-![](./Image/3.png)
+![](./Image/3.PNG)
 
 I have the "capture.pcapng" file
 
 ### 2. I open the file to see the content of file:
 
-![](./Image/4.png)
+![](./Image/4.PNG)
 
 ### 3. Extract the content of file:
 
