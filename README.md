@@ -18,6 +18,8 @@
 
 ### 2.1. Very Easy
 [Very Easy](https://github.com/DoNCCong/Cyber-Apocalypse-CTF-2024/tree/9ab7bd49df174b1e0f9c9368f6efbb6c9c3761b9/2.%20Forensics/1.%20Very%20Easy)
+[Easy]
+[Medium]
 
 ## 3. Web
 
