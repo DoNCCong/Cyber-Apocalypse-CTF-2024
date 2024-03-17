@@ -27,6 +27,10 @@
 
 ![](./Source/Image/3_Web.PNG)
 
+[Very Easy](https://github.com/DoNCCong/Cyber-Apocalypse-CTF-2024/tree/4cd8cddf14ee27f3907fe9c9986135d85113bf1d/3.%20Web/1.%20Very%20Easy)
+
+[Easy](https://github.com/DoNCCong/Cyber-Apocalypse-CTF-2024/tree/4cd8cddf14ee27f3907fe9c9986135d85113bf1d/3.%20Web/2.%20Easy)
+
 ## 4. Reversing
 
 ![](./Source/Image/4_Reversing.PNG)
