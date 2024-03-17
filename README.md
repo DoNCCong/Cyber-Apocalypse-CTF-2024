@@ -35,6 +35,8 @@
 
 ![](./Source/Image/4_Reversing.PNG)
 
+[Very Easy](https://github.com/DoNCCong/Cyber-Apocalypse-CTF-2024/tree/4b68148bc213603445aad7dd009108bbd8d37712/4.%20Reversing)
+
 ## 5. Crypto
 
 ![](./Source/Image/5_Crypto.PNG)
