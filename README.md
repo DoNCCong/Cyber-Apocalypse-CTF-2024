@@ -12,6 +12,8 @@
 
 ![](./Source/Image/1_Misc_.PNG)
 
+[Misc](https://github.com/DoNCCong/Cyber-Apocalypse-CTF-2024/tree/ac36fa06bc2c1d25c40d501961fca6a3a924f51d/1.%20Misc)
+
 ## 2. Forensic
 
 ![](./Source/Image/2_Forenscis.PNG)
