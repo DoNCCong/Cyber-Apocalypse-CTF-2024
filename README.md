@@ -46,3 +46,5 @@
 ## 7. Hardware
 
 ![](./Source/Image/7_Hardware.PNG)
+
+[Very Easy](https://github.com/DoNCCong/Cyber-Apocalypse-CTF-2024/tree/e35f9f0d3a3cc1238f93cc0c62bde0ff9d103cab/7.%20Hardware)
