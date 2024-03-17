@@ -43,6 +43,8 @@
 
 ![](./Source/Image/5_Crypto.PNG)
 
+[Crypto](https://github.com/DoNCCong/Cyber-Apocalypse-CTF-2024/tree/1fdd28eac496b29422cd5000b9f4c81ec94e0a71/5.%20Crypto/1.%20Dynastic)
+
 ## 6. pwn
 
 ![](./Source/Image/6_pwn.PNG)
