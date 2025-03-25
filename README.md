@@ -2,7 +2,7 @@
  
 [Learning Hacking Team](https://ctf.hackthebox.com/team/overview/163443)
 
-![](./Source/Image/TeamProfile.PNG)
+![](./Images/DoNCCong.jpeg)
 
 ## My Team Score:
 
